@@ -1,4 +1,4 @@
-package control.flow.statement_for;
+package org.example_for;
 
 public class Main {
 
